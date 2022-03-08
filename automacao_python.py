@@ -1,5 +1,6 @@
 import time
-import pyautogui, pyperclip
+import pyautogui
+import pyperclip
 import pandas as pd
 
 #Entrar no sistema da empresa
